@@ -1,0 +1,43 @@
+.heading{
+    width: 100%;
+    font-size:25px;
+    margin: 0px;
+    background-color: #BF0603;
+    color: white;
+}
+
+.note{
+    font-size: 20px;
+    color:white;    
+}
+
+body{
+    background-size: cover;
+}
+
+.speed{
+float: left;
+}
+
+.vol{
+   float: right; 
+}
+
+.speeddisk{
+    width: 250px;
+    height: 250px;
+    border-radius: 15px;
+    margin-left: 10px;
+    }
+
+.voldisk{
+        width: 250px;
+        height: 250px;
+        border-radius: 15px;
+        margin-right: 10px;
+        }
+
+.playy{
+    padding:20px;
+    background-color: #F4D58D;
+}
